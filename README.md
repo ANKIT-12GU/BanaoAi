@@ -78,6 +78,7 @@ project-directory/
 |-- dataset/                # Input CSV files
 |-- output/                 # Processed CSV files
 |-- visualizations/         # Generated plots
+|-- BANAO_AI_Ankit_Kumar_Report         # PDF Report
 |-- main.py                 # Main pipeline script
 |-- README.md               # Project documentation
 ```
